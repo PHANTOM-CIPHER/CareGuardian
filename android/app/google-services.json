@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52633155608",
+    "project_id": "careguardian-7105",
+    "storage_bucket": "careguardian-7105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52633155608:android:678fc474e7929252baeb6d",
+        "android_client_info": {
+          "package_name": "com.example.careguardian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK0Aob_aXte0B7ipzIsnUR1_ZXPvZzEN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
